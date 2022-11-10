@@ -1,6 +1,11 @@
 import styled from "styled-components";
 
-return <Wrapper></Wrapper>;
+const SingleProduct = () => {
+  return <Wrapper>
+    <h2>sinlge pae</h2>
+  </Wrapper>;
+};
+
 
 const Wrapper = styled.section`
   .container {
